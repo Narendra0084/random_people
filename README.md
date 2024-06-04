@@ -17,6 +17,8 @@ Minmum SDK version 21
 flutter package version -> objectbox_flutter_libs: device wise.
 Some need to change flutter SDK.
 
+Reference: https://github.com/objectbox/objectbox-dart/issues/622
+
 
 App Functionality Use case: 
 
